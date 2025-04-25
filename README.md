@@ -53,7 +53,7 @@ I work with an extensive range of technologies to drive impactful results:
 ---
 
 ## 🚀 About Me
-I am actively pursuing a Bachelor of Applied Science in Information Systems and an Associate in Data Science while exploring advanced technical and customer-facing roles. My passion lies in using structured data and tools to optimize decision-making and drive innovation.
+Having recently earned an Associate in Data Science, I am actively pursuing a Bachelor of Applied Science in Information Systems while exploring advanced technical and customer-facing roles. My passion lies in using structured data and tools to optimize decision-making and drive innovation.
 
 ---
 
